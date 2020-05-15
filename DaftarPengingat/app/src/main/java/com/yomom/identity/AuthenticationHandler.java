@@ -40,8 +40,8 @@ public class AuthenticationHandler implements AuthCallback, BaseCallback<Credent
     public void startAuthenticationProcess(){
         WebAuthProvider.init(auth0)
         .withScheme("to-do")
-                .withScope("openid profile email offline_access")
-                .withAudience("https://to-dos-api")
+                .withScope("irosyadi16@gmail.com")
+                .withAudience("https://lomboktech.auth0.com/api/v2/")
                 .start(originalActivity, this);
     }
 
