@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daftar Pengingat</string>
+    <string name="to_do_message">Deskripsi Item Tugas</string>
+    <string name="button_insert">Masukkan</string>
+
+    <!--authentication auth0.com-->
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="com_auth0_client_id">Sx0TZYDFf0iOk7xomOx7FNu12G48kZ6D</string>
+    <string name="com_auth0_domain">lomboktech.auth0.com</string>
+</resources>
