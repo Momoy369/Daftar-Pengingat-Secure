@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ToDoFormActivity" />
+        <activity android:name="com.yomom.identity.AuthAwareActivity" />
     </application>
 
 </manifest>
